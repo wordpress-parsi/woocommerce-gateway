@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SizPay Payment Method for WooCommerce\n"
+"POT-Creation-Date: 2021-11-07 17:31+0330\n"
+"PO-Revision-Date: 2021-11-07 17:55+0330\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: ModuleBank <support@modulebank.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sizpay_payment_for_woocommerce.php:21 sizpay_payment_for_woocommerce.php:50
+#: sizpay_payment_for_woocommerce.php:77
+msgid "SizPay Payment Gateway"
+msgstr "درگاه پرداخت سیزپی"
+
+#: sizpay_payment_for_woocommerce.php:42
+msgid "Enable / Disable"
+msgstr "فعال سازی/غیر فعال سازی"
+
+#: sizpay_payment_for_woocommerce.php:44
+msgid "Enable or Disable This Payment Mehod"
+msgstr "فعال سازی درگاه پرداخت سیزپی"
+
+#: sizpay_payment_for_woocommerce.php:47 sizpay_payment_for_woocommerce.php:49
+msgid "Display Title"
+msgstr "عنوان قابل نمایش به کاربر"
+
+#: sizpay_payment_for_woocommerce.php:52 sizpay_payment_for_woocommerce.php:54
+msgid "Payment Instruction"
+msgstr "توضیحات و راهنمای پرداخت"
+
+# پرداخت امن از طریق درگاه های معتبر بانکی (قابل پرداخت با کلیه کارت های عضو شتاب)
+#: sizpay_payment_for_woocommerce.php:55
+msgid "Pay by SizPay Payment Gateway"
+msgstr ""
+"پرداخت امن از طریق درگاه های معتبر بانکی (قابل پرداخت با کلیه کارت های عضو "
+"شتاب)"
+
+#: sizpay_payment_for_woocommerce.php:57
+msgid "SizPay Merchant"
+msgstr "کد پذیرنده"
+
+#: sizpay_payment_for_woocommerce.php:59
+msgid "Enter SizPay Merchant"
+msgstr "کد پذیرنده خود را وارد کنید"
+
+#: sizpay_payment_for_woocommerce.php:61
+msgid "SizPay Terminal"
+msgstr "کد  ترمینال"
+
+#: sizpay_payment_for_woocommerce.php:63
+msgid "Enter SizPay Terminal"
+msgstr "کد ترمینال خود را وارد کنید"
+
+#: sizpay_payment_for_woocommerce.php:65
+msgid "SizPay Username"
+msgstr "کلید 1"
+
+#: sizpay_payment_for_woocommerce.php:67
+msgid "Enter SizPay Username"
+msgstr "کلید1 خود را وارد کنید"
+
+#: sizpay_payment_for_woocommerce.php:69
+msgid "SizPay Password"
+msgstr "کلید 2"
+
+#: sizpay_payment_for_woocommerce.php:71
+msgid "Enter SizPay Password"
+msgstr "کلید 2 خود را وارد کنید"
+
+#: sizpay_payment_for_woocommerce.php:90
+msgid ""
+"thank you for your order. please note the order id. and then click on pay "
+"button"
+msgstr ""
+"با تشکر از سفارش شما. پس از یادداشت شماره سفارش ، برای انتقال به درگاه "
+"سیزپی ، بر روی دکمه پرداخت کلیک کنید"
+
+#: sizpay_payment_for_woocommerce.php:109
+msgid "Error : Order Not Exists!"
+msgstr "خطا : سفارشی با اطلاعات دریافتی موجود نیست!"
+
+#: sizpay_payment_for_woocommerce.php:113
+msgid "Error : Order Already Paid!"
+msgstr "خطا : سفارش قبلا پرداخت و تعیین وضعیت شده!"
+
+#: sizpay_payment_for_woocommerce.php:131
+#, php-format
+msgid "Payment Completed. OrderID : %s . PaymentRefrenceID : %s"
+msgstr "پرداخت با موفقیت انجام شد. شماره سفارش : %s . شماره پیگیری : %s"
+
+#: sizpay_payment_for_woocommerce.php:154
+msgid "System (Permission) Error."
+msgstr "خطای سیستمی. دسترسی غیر مجاز."
+
+#: sizpay_payment_for_woocommerce.php:200
+msgid "Pay"
+msgstr "پرداخت"

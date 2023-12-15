@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#333"/>
+      <stop offset="1" stop-color="#333"/>
+    </linearGradient>
+  </defs>
+  <g id="Logo" transform="translate(-832 -40)">
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M2248.934,4314H2208a8.009,8.009,0,0,1-8-8v-98a8.009,8.009,0,0,1,8-8h112a8.009,8.009,0,0,1,8,8v98a8.009,8.009,0,0,1-8,8h-40.934v-16.752a2.6,2.6,0,0,0-2.6-2.6H2260.6a2.634,2.634,0,0,0-1.842.759l-9.065,9.04a2.586,2.586,0,0,0-.762,1.834V4314Z" transform="translate(-1368 -4160)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="128" height="14" transform="translate(832 154)" fill="none"/>
+    <g id="Group_1752" data-name="Group 1752" transform="translate(502.839 -88)">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="13" height="19" transform="translate(389 228)" fill="#fff"/>
+      <path id="Path_4309" data-name="Path 4309" d="M196.507.6l-7.22,7.2a2.071,2.071,0,0,0-.607,1.46V25.532a2.074,2.074,0,0,0,2.074,2.068h12.632a2.076,2.076,0,0,0,1.467-.608l7.22-7.2a2.071,2.071,0,0,0,.607-1.46V2.068A2.068,2.068,0,0,0,210.606,0H197.974a2.085,2.085,0,0,0-1.467.6Zm12.211,17.15-2.449,2.44a1.735,1.735,0,0,1-1.222.5H200.1a.515.515,0,0,1-.367-.881l3.419-3.4a.515.515,0,0,0-.367-.881h-4.8a.865.865,0,0,1-.866-.864V4.321a.865.865,0,0,1,.866-.864h10.38a.865.865,0,0,1,.866.864V16.536A1.726,1.726,0,0,1,208.718,17.755Z" transform="translate(192.481 226.177)" fill="#4c9f87" fill-rule="evenodd"/>
+    </g>
+    <text id="ووکامرس" transform="translate(896 95)" fill="#fff" font-size="20" font-family="IRANSans-Bold, IRANSans" font-weight="700"><tspan x="-36.626" y="0">ووکامرس</tspan></text>
+  </g>
+</svg>

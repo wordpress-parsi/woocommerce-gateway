@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Toman IPG for WooCommerce\n"
+"POT-Creation-Date: 2023-05-20 21:25+0330\n"
+"PO-Revision-Date: 2023-05-20 21:26+0330\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: ModuleBank <support@modulebank.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: toman-ipg.php:31
+msgid "TomanPay IPG Method for WooCommerce"
+msgstr "متد درگاه پرداخت آنلاین تومن برای ووکامرس"
+
+#: toman-ipg.php:32 toman-ipg.php:100
+msgid "TomanPay IPG Method"
+msgstr "متد درگاه پرداخت آنلاین تومن"
+
+#: toman-ipg.php:53
+msgid "Enable / Disable"
+msgstr "فعال سازی/غیر فعال سازی"
+
+#: toman-ipg.php:55
+msgid "Enable or Disable This Payment Mehod"
+msgstr "فعال سازی متد درگاه پرداخت آنلاین تومن"
+
+#: toman-ipg.php:59 toman-ipg.php:61
+msgid "Display Title"
+msgstr "عنوان قابل نمایش به کاربر"
+
+#: toman-ipg.php:62
+msgid "TomanPay IPG"
+msgstr "درگاه پرداخت آنلاین تومن"
+
+#: toman-ipg.php:65 toman-ipg.php:67
+msgid "Payment Instruction"
+msgstr "توضیحات و راهنمای پرداخت"
+
+#: toman-ipg.php:68
+msgid "Pay via TomanPay IPG"
+msgstr "پرداخت از طریق درگاه پرداخت آنلاین تومن"
+
+#: toman-ipg.php:71
+msgid "TomanPay IPG Username"
+msgstr "نام کاربری"
+
+#: toman-ipg.php:73
+msgid "Enter TomanPay IPG Username"
+msgstr "نام کاربری درگاه پرداخت آنلاین تومن را وارد کنید"
+
+#: toman-ipg.php:76
+msgid "TomanPay IPG Password"
+msgstr "رمز عبور"
+
+#: toman-ipg.php:78
+msgid "Enter TomanPay IPG Password"
+msgstr "لطفا رمز عبور درگاه پرداخت آنلاین تومن را وارد کنید"
+
+#: toman-ipg.php:81
+msgid "TomanPay IPG Client ID"
+msgstr "شناسه مشتری"
+
+#: toman-ipg.php:83
+msgid "Enter TomanPay IPG Client ID"
+msgstr "لطفا شناسه مشتری (کلاینت آی دی) درگاه پرداخت آنلاین تومن را وارد کنید"
+
+#: toman-ipg.php:86
+msgid "TomanPay IPG Client Secret"
+msgstr "رمز مشتری"
+
+#: toman-ipg.php:88
+msgid "Enter TomanPay IPG Client Secret"
+msgstr "لطفا رمز مشتری (کلاینت پسورد) درگاه پرداخت آنلاین تومن را وارد کنید"
+
+#: toman-ipg.php:91
+msgid "Enable Test Mode"
+msgstr "حالت تست"
+
+#: toman-ipg.php:93
+msgid "Enable Staging Mode"
+msgstr "فعالسازی حالت تست"
+
+#: toman-ipg.php:170
+msgid "Erorr Connecting TomanPay IPG OAuth Token Service"
+msgstr "خطا در اتصال به سرویس توکن درگاه پرداخت آنلاین تومن"
+
+#: toman-ipg.php:197 toman-ipg.php:219 toman-ipg.php:253 toman-ipg.php:271
+msgid "Erorr"
+msgstr "خطا"
+
+#: toman-ipg.php:207
+msgid ""
+"thank you for your order. you are redirecting to TomanPay online payemnt "
+"gateway (toman.ir). please wait"
+msgstr ""
+"با تشکر از سفارش شما. شما در حال هدایت به درگاه پرداخت آنلاین تومن (toman."
+"ir) جهت پرداخت هزینه می باشید ، لطفا منتظر بمانید"
+
+#: toman-ipg.php:208
+msgid "Pay"
+msgstr "پرداخت"
+
+#: toman-ipg.php:212
+msgid "Erorr Connecting TomanPay IPG Payments Service"
+msgstr "خطا در اتصال به درگاه پرداخت آنلاین تومن"
+
+#: toman-ipg.php:235
+msgid "Error : Order Not Exists!"
+msgstr "خطا : سفارشی با اطلاعات دریافتی موجود نیست!"
+
+#: toman-ipg.php:237
+msgid "Error : Order Already Paid!"
+msgstr "خطا : سفارش قبلا پرداخت شده!"
+
+#: toman-ipg.php:257
+#, php-format
+msgid "Payment Completed. PaymentRefrenceID : %s"
+msgstr "پرداخت با موفقیت انجام شد. شماره پیگیری : %s"
+
+#: toman-ipg.php:265
+msgid "Payment Failed or Cancelled by user"
+msgstr "تراکنش با خطا مواجه یا از سوی کاربر لغو شد"
+
+#: toman-ipg.php:306
+msgid "Rate This Plugin"
+msgstr "لطفا به این افزونه امتیاز بدهید"
+
+#: toman-ipg.php:319 toman-ipg.php:323
+msgid "Settings"
+msgstr "تنظیمات"

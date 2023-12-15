@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RayanPay Payment Gateway for WooCommerce\n"
+"POT-Creation-Date: 2022-06-27 11:33+0430\n"
+"PO-Revision-Date: 2022-06-27 11:34+0430\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: ModuleBank <support@modulebank.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: rayanpay.php:22
+msgid "RayanPay Payment Method for WooCommerce"
+msgstr "متد پرداخت درگاه رایان پی برای ووکامرس"
+
+#: rayanpay.php:23 rayanpay.php:50 rayanpay.php:68
+msgid "RayanPay Payment Gateway"
+msgstr "پرداخت از طریق درگاه رایان پی"
+
+#: rayanpay.php:41
+msgid "Enable / Disable"
+msgstr "فعال سازی/غیر فعال سازی"
+
+#: rayanpay.php:43
+msgid "Enable or Disable This Payment Mehod"
+msgstr "فعال سازی درگاه پرداخت رایان پی"
+
+#: rayanpay.php:47 rayanpay.php:49
+msgid "Display Title"
+msgstr "عنوان قابل نمایش به کاربر"
+
+#: rayanpay.php:53 rayanpay.php:55
+msgid "Payment Instruction"
+msgstr "توضیحات و راهنمای پرداخت"
+
+#: rayanpay.php:56
+msgid "Pay by RayanPay Payment Gateway"
+msgstr "پرداخت از طریق درگاه رایان پی"
+
+#: rayanpay.php:59
+msgid "RayanPay Merchant ID"
+msgstr "کد پذیرندگی رایان پی"
+
+#: rayanpay.php:61
+msgid "Enter RayanPay Merchant ID"
+msgstr "کد پذیرندگی خود در رایان پی را وارد کنید"
+
+#: rayanpay.php:100
+msgid ""
+"thank you for your order. you are redirecting to rayanpay gateway. please "
+"wait"
+msgstr ""
+"با تشکر از سفارش شما. شما در حال هدایت به درگاه رایان پی می باشید ، لطفا "
+"منتظر بمانید"
+
+#: rayanpay.php:101
+msgid "Pay"
+msgstr "پرداخت"
+
+#: rayanpay.php:112 rayanpay.php:113
+msgid "Erorr"
+msgstr "خطا"
+
+#: rayanpay.php:127
+msgid "Payment Cancelled By User"
+msgstr "پرداخت توسط کاربر لغو شد"
+
+#: rayanpay.php:132
+msgid "Error : Order Not Exists!"
+msgstr "خطا : سفارشی با اطلاعات دریافتی موجود نیست!"
+
+#: rayanpay.php:136
+msgid "Error : Order Already Paid!"
+msgstr "خطا : سفارش قبلا پرداخت شده!"
+
+#: rayanpay.php:150
+#, php-format
+msgid "Payment Completed. OrderID : %s . PaymentRefrenceID : %s"
+msgstr "پرداخت با موفقیت انجام شد. شماره سفارش : %s . شماره پیگیری : %s"
+
+#: rayanpay.php:173
+msgid "System (Permission) Error!"
+msgstr "خطای سیستمی. دسترسی غیر مجاز!"
+
+#: rayanpay.php:214
+msgid "Settings"
+msgstr "تنظیمات"

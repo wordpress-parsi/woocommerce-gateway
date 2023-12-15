@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VandaPardakht Payment Gateway for WooCommerce\n"
+"POT-Creation-Date: 2022-04-25 21:02+0430\n"
+"PO-Revision-Date: 2022-04-25 21:03+0430\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: ModuleBank <support@modulebank.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: vandapardakht.php:24 vandapardakht.php:235
+msgid "VandaPardakht Payment for WooCommerce"
+msgstr "درگاه پرداخت ونداپرداخت برای ووکامرس"
+
+#: vandapardakht.php:25
+msgid ""
+"With this Plugin, You can add VandaPardakht Online Payment Gateway to "
+"WooCommerce Checkout system and payment methods"
+msgstr ""
+"با کمک این افزونه می توانید پرداخت از طریق درگاه پرداخت آنلاین ونداپرداخت را "
+"به سایت و سیستم تسویه حساب فروشگاه ووکامرس خود اضافه کنید"
+
+#: vandapardakht.php:26 vandapardakht.php:54 vandapardakht.php:78
+msgid "VandaPardakht Online Payment Gateway"
+msgstr "درگاه پرداخت آنلاین ونداپرداخت"
+
+#: vandapardakht.php:45
+msgid "Enable / Disable"
+msgstr "فعال سازی/غیر فعال سازی"
+
+#: vandapardakht.php:47
+msgid "Enable or Disable This Payment Mehod"
+msgstr "فعال سازی درگاه پرداخت آنلاین ونداپرداخت"
+
+#: vandapardakht.php:51 vandapardakht.php:53
+msgid "Display Title"
+msgstr "عنوان قابل نمایش به کاربر"
+
+#: vandapardakht.php:57 vandapardakht.php:59
+msgid "Payment Instruction"
+msgstr "توضیحات و راهنمای پرداخت"
+
+#: vandapardakht.php:60
+msgid "Pay by VandaPardakht Online Payment Gateway"
+msgstr "پرداخت از طریق درگاه پرداخت آنلاین ونداپرداخت"
+
+#: vandapardakht.php:63
+msgid "VandaPardakht PIN"
+msgstr "پین درگاه ونداپرداخت"
+
+#: vandapardakht.php:65
+msgid "Enter VandaPardakht PIN"
+msgstr "پین درگاه ونداپرداخت را وارد کنید"
+
+#: vandapardakht.php:68
+msgid "Success Message"
+msgstr "پیام پس از پرداخت موفق"
+
+#: vandapardakht.php:70
+msgid "Payment Completed"
+msgstr "پرداخت با موفقیت انجام شد"
+
+#: vandapardakht.php:71
+msgid "Success Message. Ex : Payment Completed"
+msgstr "پیام پس از پرداخت موفق . مثلا : پرداخت با موفقیت انجام شد"
+
+#: vandapardakht.php:93
+msgid ""
+"Thank you for your order. You will be redirect to the VandaPardakht Online "
+"Payment Gateway"
+msgstr ""
+"از سفارش شما مچکریم . برای پرداخت مبلغ سفارش ، به درگاه پرداخت هدایت خواهید "
+"شد"
+
+#: vandapardakht.php:111
+msgid "Error : Order Not Exists!"
+msgstr "خطا : سفارشی با اطلاعات دریافتی موجود نیست!"
+
+#: vandapardakht.php:115
+msgid "Error : Order Already Paid!"
+msgstr "خطا : سفارش قبلا پرداخت شده!"
+
+#: vandapardakht.php:137
+#, php-format
+msgid "RefrenceID : %s"
+msgstr "شماره پیگیری : %s"
+
+#: vandapardakht.php:154
+msgid "System (Permission) Error."
+msgstr "خطای سیستمی. دسترسی غیر مجاز."
+
+#: vandapardakht.php:185 vandapardakht.php:186
+#, php-format
+msgid "Erorr : %s"
+msgstr "خطا : %s"
+
+#: vandapardakht.php:203 vandapardakht.php:226
+msgid "Rate"
+msgstr "امتیار"
+
+#: vandapardakht.php:234
+#, php-format
+msgid ""
+"If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr ""
+"اگر %1$s را دوست دارید، لطفا برای حمایت از ما ، نظر و امتیاز %2$s خود را ثبت "
+"کنید. پیشاپیش از شما سپاسگزاریم!"
+
+#: vandapardakht.php:239
+msgid "Settings"
+msgstr "تنظیمات"

@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TomanPay Escrow Service Payment Gateway for WooCommerce\n"
+"POT-Creation-Date: 2023-05-20 20:45+0330\n"
+"PO-Revision-Date: 2023-05-20 20:46+0330\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: ModuleBank <support@modulebank.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: toman-escrow-service.php:35
+msgid "TomanPay Escrow Service Payment Method for WooCommerce"
+msgstr "سیستم معاملاتی درگاه پرداخت امن تومن برای ووکامرس"
+
+#: toman-escrow-service.php:36 toman-escrow-service.php:64
+#: toman-escrow-service.php:87
+msgid "TomanPay Escrow Service Payment Method"
+msgstr "پرداخت امن تومن"
+
+#: toman-escrow-service.php:55
+msgid "Enable / Disable"
+msgstr "فعال سازی/غیر فعال سازی"
+
+#: toman-escrow-service.php:57
+msgid "Enable or Disable This Payment Mehod"
+msgstr "فعال سازی سیستم معاملاتی درگاه پرداخت امن تومن"
+
+#: toman-escrow-service.php:61 toman-escrow-service.php:63
+msgid "Display Title"
+msgstr "عنوان قابل نمایش به کاربر"
+
+#: toman-escrow-service.php:67 toman-escrow-service.php:69
+msgid "Payment Instruction"
+msgstr "توضیحات و راهنمای پرداخت"
+
+#: toman-escrow-service.php:70
+msgid "Pay via TomanPay Escrow Service Payment Method"
+msgstr ""
+"در پرداخت امن تومن، مبلغ پرداختی نزد تومن به امانت باقی می‌ماند و پس از انجام "
+"معامله در صورت تایید خریدار، تسویه با فروشنده صورت خواهد گرفت"
+
+#: toman-escrow-service.php:73
+msgid "TomanPay Escrow Service Shop Slug"
+msgstr "شناسه فروشگاه"
+
+#: toman-escrow-service.php:75
+msgid "Enter TomanPay Escrow Service Shop Slug"
+msgstr "لطفا شناسه فروشگاه دریافتی از درگاه امن را وارد کنید"
+
+#: toman-escrow-service.php:78
+msgid "TomanPay Escrow Service Password"
+msgstr "کدفعالسازی - Auth"
+
+#: toman-escrow-service.php:80
+msgid "Enter TomanPay Escrow Service Password"
+msgstr "لطفا کدفعالسازی - Auth دریافتی از درگاه امن را وارد کنید"
+
+#: toman-escrow-service.php:125
+msgid "Shipping"
+msgstr "هزینه ارسال"
+
+#: toman-escrow-service.php:135
+msgid "Other"
+msgstr "سایر هزینه"
+
+#: toman-escrow-service.php:150
+msgid "Erorr"
+msgstr "خطا"
+
+#: toman-escrow-service.php:164
+msgid ""
+"thank you for your order. you are redirecting to TomanPay Escrow Service "
+"gateway. please wait"
+msgstr ""
+"با تشکر از سفارش شما. شما در حال هدایت به وب سایت سیستم معاملاتی درگاه پرداخت "
+"امن تومن جهت پرداخت هزینه می باشید ، لطفا منتظر بمانید"
+
+#: toman-escrow-service.php:165
+msgid "Pay"
+msgstr "پرداخت"
+
+#: toman-escrow-service.php:170 toman-escrow-service.php:209
+msgid "Erorr Connecting TomanPay Escrow Service gateway"
+msgstr "خطا در اتصال به سیستم معاملاتی درگاه پرداخت امن تومن"
+
+#: toman-escrow-service.php:188
+msgid "Error : Order Not Exists!"
+msgstr "خطا : سفارشی با اطلاعات دریافتی موجود نیست!"
+
+#: toman-escrow-service.php:192
+msgid "Error : Order Already Paid!"
+msgstr "خطا : سفارش قبلا پرداخت شده!"
+
+#: toman-escrow-service.php:196
+#, php-format
+msgid "Payment Cancelled By User (state : %s)"
+msgstr "پرداخت با خطا مواجه شد یا از سوی کاربر لغو شد (وضعیت : %s)"
+
+#: toman-escrow-service.php:218
+#, php-format
+msgid "Payment Completed. PaymentRefrenceID : %s"
+msgstr "پرداخت با موفقیت انجام شد. شماره پیگیری : %s"
+
+#: toman-escrow-service.php:228
+msgid "Erorr Invalid Response from TomanPay Escrow Service gateway"
+msgstr "خطا در استعلام تراکنش از سیستم معاملاتی درگاه پرداخت امن تومن"
+
+#: toman-escrow-service.php:230
+msgid "Payment Failed or Cancelled by user"
+msgstr "تراکنش با خطا مواجه یا از سوی کاربر لغو شد"
+
+#: toman-escrow-service.php:238
+#, php-format
+msgid "Paid Price (%s) and Order Price (%s) are not the same"
+msgstr "مبلغ پرداختی (%s) و مبلغ سفارش (%s) یکسان نیستند"
+
+#: toman-escrow-service.php:249
+msgid "System (Permission) Error!"
+msgstr "خطای سیستمی. دسترسی غیر مجاز!"
+
+#: toman-escrow-service.php:283
+msgid "Rate This Plugin"
+msgstr "لطفا به این افزونه امتیاز بدهید"
+
+#: toman-escrow-service.php:296
+msgid "Settings"
+msgstr "تنظیمات"

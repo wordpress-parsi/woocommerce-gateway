@@ -1,0 +1,167 @@
+# Copyright (C) 2021 RayPay
+# This file is distributed under the same license as the RayPay payment gateway for Woocommerce plugin.
+msgid ""
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "RayPay payment gateway for Woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "<a href=\"https://raypay.ir\">RayPay</a> secure payment gateway for Woocommerce."
+msgstr ""
+
+#. Author of the plugin
+#: includes/wc-gateway-raypay-init.php:116
+msgid "RayPay"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://raypay.ir"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:40
+msgid "Iranian hezar rial"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:41
+msgid "Iranian hezar toman"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:53
+msgid "IRHR"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:57
+msgid "IRHT"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:117
+#: includes/wc-gateway-raypay-init.php:201
+msgid "Redirects customers to RayPay to process their payments."
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:185
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:192
+msgid "Title"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:194
+msgid "This gateway title will be shown when a customer is going to to checkout."
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:195
+msgid "RayPay payment gateway"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:198
+msgid "Description"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:200
+msgid "This gateway description will be shown when a customer is going to to checkout."
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:204
+msgid "Webservice Configuration"
+msgstr ""
+
+
+#: includes/wc-gateway-raypay-init.php:241
+msgid "User ID"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:243
+msgid "You can receive your User ID from RayPay panel https://panel.raypay.ir"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:247
+msgid "Acceptor Code"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:249
+msgid "You can receive your Acceptor Code from RayPay panel https://panel.raypay.ir"
+msgstr ""
+
+
+#: includes/wc-gateway-raypay-init.php:222
+msgid "Payment message configuration"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:224
+msgid "Configure the messages which are displayed when a customer is brought back to the site from the gateway."
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:227
+msgid "Success message"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:229
+msgid "Enter the message you want to display to the customer after a successful payment. You can also choose these placeholders {track_id}, {order_id} for showing the order id and the tracking id respectively."
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:230
+msgid "Your payment has been successfully completed. Track id: {track_id}"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:233
+msgid "Failure message"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:235
+msgid "Enter the message you want to display to the customer after a failure occurred in a payment. You can also choose these placeholders {track_id}, {order_id} for showing the order id and the tracking id respectively."
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:236
+msgid "Your payment has failed. Please try again or contact the site administrator in case of a problem."
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:283
+msgid "Oder number #"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:287
+msgid "Selected currency is not supported"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:329
+msgid "An error occurred while creating the transaction."
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:331
+#: includes/wc-gateway-raypay-init.php:464
+msgid "error status: %s"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:335
+#: includes/wc-gateway-raypay-init.php:468
+msgid "error code: %s"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:337
+#: includes/wc-gateway-raypay-init.php:470
+msgid "error message: %s"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:353
+msgid "transaction id: %s"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:462
+msgid "An error occurred while verifying the transaction."
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:494
+msgid "Transaction payment status: %s"
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:548
+msgid "There is no order number referenced."
+msgstr ""
+
+#: includes/wc-gateway-raypay-init.php:550
+msgid "Please try again or contact the site administrator in case of a problem."
+msgstr ""

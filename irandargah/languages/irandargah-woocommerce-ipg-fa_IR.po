@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IranDargah IPG for WooCommerce\n"
+"POT-Creation-Date: 2023-12-10 12:32+0330\n"
+"PO-Revision-Date: 2023-12-10 12:34+0330\n"
+"Last-Translator: \n"
+"Language-Team: IranDargah\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: gateway-irandargah.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: gateway-irandargah.php:54
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: gateway-irandargah.php:55
+msgid "Docs"
+msgstr "مستندات"
+
+#. translators: %s WooCommerce download URL link.
+#: gateway-irandargah.php:114
+#, php-format
+msgid ""
+"IranDargah Payment Gateway for WooCommerce requires WooCommerce to be "
+"installed and active. You can download %s here."
+msgstr ""
+"روش پرداخت ایران درگاه نیازمند نصب و فعال بودن ووکامرس است. شما می‌توانید %s "
+"را از اینجا دانلود کنید."
+
+#. Author of the plugin/theme
+#: includes/class-wc-gateway-irandargah.php:36
+#: includes/class-wc-gateway-irandargah.php:262
+msgid "IranDargah"
+msgstr "ایران درگاه"
+
+#: includes/class-wc-gateway-irandargah.php:37
+msgid "IranDargah payment gateway for woocommerce."
+msgstr "پرداخت آنلاین ایران درگاه برای ووکامرس."
+
+#: includes/class-wc-gateway-irandargah.php:91
+msgid "Enable/Disable"
+msgstr "فعال/غیرفعال"
+
+#: includes/class-wc-gateway-irandargah.php:92
+msgid "Enable IranDargah"
+msgstr "فعال سازی ایران درگاه"
+
+#: includes/class-wc-gateway-irandargah.php:94
+msgid "This controls whether or not this gateway is enabled within WooCommerce."
+msgstr ""
+"این گزینه کنترل می‌کند که آیا این پلاگین در WooCommerce فعال می‌باشد یا خیر."
+
+#: includes/class-wc-gateway-irandargah.php:99
+msgid "Title"
+msgstr "عنوان"
+
+#: includes/class-wc-gateway-irandargah.php:101
+msgid "This controls the title which the user sees during checkout."
+msgstr "این عنوانی است که کاربران در صفحه پرداخت مشاهده می‌کنند."
+
+#: includes/class-wc-gateway-irandargah.php:106
+msgid "Description"
+msgstr "توضیحات"
+
+#: includes/class-wc-gateway-irandargah.php:108
+msgid "This controls the description which the user sees during checkout."
+msgstr "این توضیحاتی است که کاربران در صفحه پرداخت مشاهده می‌کنند."
+
+#: includes/class-wc-gateway-irandargah.php:113
+msgid "IranDargah Sandbox"
+msgstr "سندباکس ایران درگاه"
+
+#: includes/class-wc-gateway-irandargah.php:115
+msgid "Place the payment gateway in development mode."
+msgstr "قرار دادن درگاه پرداخت در حالت تست."
+
+#: includes/class-wc-gateway-irandargah.php:119
+msgid "Merchant ID"
+msgstr "کد مرچنت"
+
+#: includes/class-wc-gateway-irandargah.php:121
+msgid "This is the merchant id, received from IranDargah."
+msgstr "کد مرچنت خود را از پنل کاربری دریافت کنید."
+
+#: includes/class-wc-gateway-irandargah.php:125
+msgid "Gateway connection method"
+msgstr "روش اتصال به درگاه"
+
+#: includes/class-wc-gateway-irandargah.php:127
+msgid "connect to irandargah webservice by selecting one of available methods."
+msgstr "اتصال به وب‌سرویس ایران درگاه با یکی از روش‌های موجود."
+
+#: includes/class-wc-gateway-irandargah.php:129
+#: includes/class-wc-gateway-irandargah.php:141
+#: includes/class-wc-gateway-irandargah.php:152
+msgid "Choose one"
+msgstr "یکی را انتخاب کنید"
+
+#: includes/class-wc-gateway-irandargah.php:130
+msgid "REST-POST"
+msgstr "REST-POST"
+
+#: includes/class-wc-gateway-irandargah.php:131
+msgid "REST-GET"
+msgstr "REST-GET"
+
+#: includes/class-wc-gateway-irandargah.php:137
+msgid "Store active curreny"
+msgstr "ارز فعال فروشگاه"
+
+#: includes/class-wc-gateway-irandargah.php:139
+msgid "Select your default active curreny in shop."
+msgstr "ارز فعال فروشگاه خود را انتخاب کنید."
+
+#: includes/class-wc-gateway-irandargah.php:142
+msgid "IRR"
+msgstr "ریال"
+
+#: includes/class-wc-gateway-irandargah.php:143
+msgid "IRT"
+msgstr "تومان"
+
+#: includes/class-wc-gateway-irandargah.php:148
+msgid "Do you have product price over 100 million toman?"
+msgstr "آیا محصول با مبلغ بالای ۱۰۰ میلیون تومان دارید؟"
+
+#: includes/class-wc-gateway-irandargah.php:150
+msgid "If you choose Yes you should check order manually for remaining amount."
+msgstr ""
+"با انتخاب این گزینه امکان پرداخت ۹۹،۹۹۰،۰۰۰ تومان برای مشتری فراهم شده و "
+"مابقی مبلغ را باید جداگانه از مشتری دریافت نمائید."
+
+#: includes/class-wc-gateway-irandargah.php:153
+msgid "No"
+msgstr "خیر"
+
+#: includes/class-wc-gateway-irandargah.php:154
+msgid "Yes"
+msgstr "بله"
+
+#: includes/class-wc-gateway-irandargah.php:159
+msgid "Send Debug Emails"
+msgstr "ارسال ایمیل اشکال زدایی"
+
+#: includes/class-wc-gateway-irandargah.php:161
+msgid ""
+"Send debug e-mails for transactions through the Irandargah gateway (sends on "
+"successful transaction as well)."
+msgstr ""
+"از طریق پلاگین ایران درگاه ایمیل‌های رفع اشکال تراکنش‌ها را ارسال کنید (در صورت "
+"تراکنش موفق نیز ارسال می‌شود)."
+
+#: includes/class-wc-gateway-irandargah.php:165
+msgid "Who Receives Debug E-mails?"
+msgstr "چه کسی ایمیل اشکال زدایی را دریافت می‌کند؟"
+
+#: includes/class-wc-gateway-irandargah.php:167
+msgid ""
+"The e-mail address to which debugging error e-mails are sent when in test "
+"mode."
+msgstr "آدرس ایمیلی که ایمیل‌های خطای اشکال زدایی در حالت تست به آن ارسال می‌شود."
+
+#: includes/class-wc-gateway-irandargah.php:171
+msgid "Enable Logging"
+msgstr "فعال کردن لاگ"
+
+#: includes/class-wc-gateway-irandargah.php:173
+msgid "Enable transaction logging for gateway."
+msgstr "فعال کردن لاگ تراکنش‌های درگاه."
+
+#: includes/class-wc-gateway-irandargah.php:209
+msgid "Sandbox is currently in use."
+msgstr "حالت سندباکس در حال استفاده است."
+
+#: includes/class-wc-gateway-irandargah.php:266
+msgid "Gateway Disabled"
+msgstr "درگاه غیرفعال"
+
+#: includes/class-wc-gateway-irandargah.php:268
+#, php-format
+msgid ""
+"Choose Iranian Rial or Iranian Toman as your store currency in %1$sGeneral "
+"Settings%2$s to enable the IranDargah Gateway."
+msgstr ""
+"ارز مورد نظر خود را به صورت ریال یا تومان از %1$sتنظیمات کلی%2$s انتخاب کنید "
+"تا درگاه پرداخت فعال گردد."
+
+#: includes/class-wc-gateway-irandargah.php:352
+msgid ""
+"Thank you for your order, please click the button below to pay with "
+"Irandargah."
+msgstr ""
+"با تشکر از سفارش شما، لطفا بر روی دکمه زیر کلیک کرده تا به توسط ایران درگاه "
+"به صفحه پرداخت هدایت شوید."
+
+#: includes/class-wc-gateway-irandargah.php:356
+msgid "Error in connecting to gateway"
+msgstr "خطا در اتصال به درگاه"
+
+#: includes/class-wc-gateway-irandargah.php:462
+msgid "payment has been completed"
+msgstr "پرداخت انجام شد"
+
+#: includes/class-wc-gateway-irandargah.php:475
+msgid "amount is not equal to order amount"
+msgstr "مبلغ پرداختی با مبلغ سفارش یکسان نیست"
+
+#: includes/class-wc-gateway-irandargah.php:506
+#, php-format
+msgid "Transaction payment status: %s"
+msgstr "وضعیت: %s"
+
+#: includes/class-wc-gateway-irandargah.php:508
+#, php-format
+msgid "Amount of payment: %s ریال"
+msgstr "مبلغ پرداخت شده: %s ریال"
+
+#: includes/class-wc-gateway-irandargah.php:510
+#, php-format
+msgid "Transaction ref id: %s"
+msgstr "کد پیگیری: %s"
+
+#: includes/class-wc-gateway-irandargah.php:512
+#, php-format
+msgid "Payer card number: %s"
+msgstr "شماره کارت: %s"
+
+#: includes/class-wc-gateway-irandargah.php:522
+msgid "Awaiting remaining payment | "
+msgstr "در انتظار پرداخت مابقی مبلغ | "
+
+#: includes/class-wc-gateway-irandargah.php:609
+msgid "Error in sending request for connecting to gateway"
+msgstr "خطا در ارسال درخواست جهت اتصال به درگاه"
+
+#: includes/class-wc-gateway-irandargah.php:616
+msgid "Error in sending request for transaction's verification"
+msgstr "خطا در ارسال درخواست وریفای تراکنش"
+
+#: includes/class-wc-gateway-irandargah.php:745
+msgid "Your store uses a currency that Irandargah doesnt support yet."
+msgstr ""
+"فروشگاه شما از ارزی استفاده می‌کند که ایران درگاه هنوز آن را پشتیبانی نمی‌کند."
+
+#: includes/class-wc-gateway-irandargah.php:747
+msgid "You forgot to fill your merchant ID."
+msgstr "مرچنت آی‌دی خود را فراموش کرده‌اید وارد کنید."
+
+#: includes/class-wc-gateway-irandargah.php:777
+msgid ""
+"To use Irandargah as a payment provider, you need to fix the problems below:"
+msgstr "برای استفاده از پلاگین ایران درگاه، باید خطاهای زیر را برطرف کنید:"
+
+#: includes/class-wc-gateway-irandargah.php:796
+#, php-format
+msgid ""
+"<div style=\"color: green;\">Thank you for your payment. Your transaction has "
+"been completed.<br> Your transaction id is %s</div>"
+msgstr ""
+"<div style=\"color: green;\">با تشکر از شما برای پرداختتان. تراکنش شما کامل "
+"شد.<br> شماره تراکنش پرداخت شما: %s</div>"
+
+#. Plugin Name of the plugin/theme
+msgid "IranDargah Payment Gateway for WooCommerce"
+msgstr "پرداخت آنلاین ایران درگاه برای ووکامرس"
+
+#. Plugin URI of the plugin/theme
+msgid "https://irandargah.com"
+msgstr "https://irandargah.com"
+
+#. Description of the plugin/theme
+msgid "IPG for woocommerce with IranDargah"
+msgstr "درگاه پرداخت آنلاین برای ووکامرس"
+
+#~ msgid "SOAP"
+#~ msgstr "SOAP"
+
+#~ msgid "IranDargah requires a merchant id to work."
+#~ msgstr "برای اتصال به درگاه به کد مرچنت نیاز دارید."
+
+#~ msgid "There is no order number referenced."
+#~ msgstr "شماره سفارشی وجود ندارد."
+
+#~ msgid ""
+#~ "Please try again or contact the site administrator in case of a problem."
+#~ msgstr ""
+#~ "لطفا دوباره تلاش کنید یا با مدیریت سایت در خصوص مشکل ایجاد شده تماس بگیرید."
+
+#~ msgid "Status: %s"
+#~ msgstr "وضعیت: %s"
+
+#~ msgid "WooCommerce IranDargah Gateway"
+#~ msgstr "پرداخت آنلاین ایران درگاه"

@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sepal Payment Gateway for WooCommerce\n"
+"POT-Creation-Date: 2021-11-20 01:14+0330\n"
+"PO-Revision-Date: 2021-11-20 01:16+0330\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: ModuleBank <support@modulebank.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gateway-sepal.php:26 gateway-sepal.php:40
+msgid "Rial"
+msgstr "ریال"
+
+#: gateway-sepal.php:27 gateway-sepal.php:43
+msgid "Toman"
+msgstr "تومان"
+
+#: gateway-sepal.php:28 gateway-sepal.php:46
+msgid "Thousand Rial"
+msgstr "هزار ریال"
+
+#: gateway-sepal.php:29 gateway-sepal.php:49
+msgid "Thousand Toman"
+msgstr "هزار تومان"
+
+#: gateway-sepal.php:67
+msgid "sepal-woocommerce"
+msgstr "افزونه پرداخت سپال برای ووکامرس"
+
+#: gateway-sepal.php:68
+msgid "sepal-woocommerce-desc"
+msgstr "افزونه درگاه پرداخت سپال برای فروشگاه ساز ووکامرس"
+
+#: gateway-sepal.php:69 gateway-sepal.php:117
+msgid "Sepal Payment Gateway"
+msgstr "درگاه پرداخت سپال"
+
+#: gateway-sepal.php:70
+msgid "Sepal Payment Gateway Settings"
+msgstr "تنظیمات درگاه پرداخت سپال برای افزونه فروشگاه ساز ووکامرس"
+
+#: gateway-sepal.php:101
+msgid "General Settings"
+msgstr "تنظیمات پایه ای"
+
+#: gateway-sepal.php:106
+msgid "Enable Payment Method"
+msgstr "فعالسازی/غیرفعالسازی"
+
+#: gateway-sepal.php:108
+msgid "Enable Sepal Payment"
+msgstr "فعالسازی درگاه سپال"
+
+#: gateway-sepal.php:109
+msgid "To Enable Payment via Sepal Check this parameter"
+msgstr "برای فعالسازی درگاه پرداخت سپال باید چک باکس را تیک بزنید"
+
+#: gateway-sepal.php:114
+msgid "Display Title"
+msgstr "عنوان قابل نمایش به کاربر"
+
+#: gateway-sepal.php:116
+msgid "Display Title to user"
+msgstr "عنوان درگاه که در طی خرید به مشتری نمایش داده میشود"
+
+#: gateway-sepal.php:121
+msgid "Payment Instruction"
+msgstr "توضیحات درگاه"
+
+#: gateway-sepal.php:124
+msgid "Payment Instruction display to user"
+msgstr "توضیحاتی که در هنگام انجام پرداخت برای این درگاه نمایش داده می شود"
+
+#: gateway-sepal.php:125
+msgid "Pay Online by Iranian Shetab Card via Sepal Payment Gateway"
+msgstr "پرداخت به وسیله کلیه کارت های عضو شبکه شتاب از طریق درگاه آنلاین سپال"
+
+#: gateway-sepal.php:128
+msgid "Sepal Settings"
+msgstr "تنظیمات سپال"
+
+#: gateway-sepal.php:133
+msgid "API Key"
+msgstr "کلید وب سرویس"
+
+#: gateway-sepal.php:135
+msgid "Sepal API Key"
+msgstr "کلید وب سرویس درگاه سپال"
+
+#: gateway-sepal.php:140
+msgid "Payment Settings"
+msgstr "تنظیمات عملیات پرداخت"
+
+#: gateway-sepal.php:145
+msgid "Complete Payment Message"
+msgstr "پیام پرداخت موفق"
+
+#: gateway-sepal.php:147
+msgid ""
+"Message display to user after payment complete. you can use {payment_number} "
+"shortcode to show transaction trace number."
+msgstr ""
+"متن پیامی که میخواهید بعد از پرداخت موفق به کاربر نمایش دهید را وارد "
+"نمایید . همچنین می توانید از شورت کد {payment_number} برای نمایش شماره "
+"پرداخت سپال استفاده نمایید ."
+
+#: gateway-sepal.php:148
+msgid "Payment Completed. Thank You."
+msgstr "با تشکر از شما . سفارش شما با موفقیت پرداخت شد ."
+
+#: gateway-sepal.php:151
+msgid "Fail Payment Message"
+msgstr "پیام پرداخت ناموفق"
+
+#: gateway-sepal.php:153
+msgid ""
+"Message display to user after fail payment. you can use {fault}  shortcode "
+"to show error."
+msgstr ""
+"متن پیامی که میخواهید بعد از پرداخت ناموفق به کاربر نمایش دهید را وارد "
+"نمایید . همچنین می توانید از شورت کد {fault} برای نمایش دلیل خطای رخ داده "
+"استفاده نمایید."
+
+#: gateway-sepal.php:154
+msgid "Payment Failed. try again or contact site administrator"
+msgstr ""
+"پرداخت شما ناموفق بوده است . لطفا مجددا تلاش نمایید یا در صورت بروز اشکال با "
+"مدیر سایت تماس بگیرید"
+
+#: gateway-sepal.php:206
+msgid "Pay"
+msgstr "پرداخت"
+
+#: gateway-sepal.php:207
+msgid "Return"
+msgstr "بازگشت"
+
+#: gateway-sepal.php:255
+msgid "Order Number"
+msgstr "شماره سفارش"
+
+#: gateway-sepal.php:255
+msgid "Customer"
+msgstr "خریدار"
+
+#: gateway-sepal.php:287
+msgid "Transaction Failed"
+msgstr "تراکنش ناموفق بود"
+
+#: gateway-sepal.php:293
+#, php-format
+msgid "Error Connecting to gateway : %s"
+msgstr "خطا در هنگام ارسال به بانک : %s"
+
+#: gateway-sepal.php:298
+#, php-format
+msgid "Error Connecting to gateway : <br/>%s"
+msgstr "در هنگام اتصال به بانک خطای زیر رخ داده است : <br/> %s"
+
+#: gateway-sepal.php:378
+msgid "Payment Failed"
+msgstr "تراکنش ناموفق بود"
+
+#: gateway-sepal.php:383
+msgid "Payment Cancelled"
+msgstr "تراکنش لغو شد"
+
+#: gateway-sepal.php:393
+#, php-format
+msgid "Payment Completed .<br/> Trace Number : %s"
+msgstr "پرداخت موفقیت آمیز بود .<br/> شماره پیگیری : %s"
+
+#: gateway-sepal.php:414
+msgid "Payment Number"
+msgstr "کد رهگیری"
+
+#: gateway-sepal.php:419
+#, php-format
+msgid "Error CallBack from Gateway : %s %s"
+msgstr "خطا در هنگام بازگشت از بانک : %s %s"
+
+#: gateway-sepal.php:457
+msgid "Order ID NOT EXISTS"
+msgstr "شماره سفارش وجود ندارد"

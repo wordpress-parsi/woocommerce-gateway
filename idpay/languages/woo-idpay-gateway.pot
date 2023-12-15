@@ -1,0 +1,209 @@
+# Copyright (C) 2021 IDPay
+# This file is distributed under the same license as the IDPay payment gateway for Woocommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: IDPay payment gateway for Woocommerce 2.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-idpay-gateway\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-05-08T07:36:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.3\n"
+"X-Domain: woo-idpay-gateway\n"
+
+#. Plugin Name of the plugin
+msgid "IDPay payment gateway for Woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "<a href=\"https://idpay.ir\">IDPay</a> secure payment gateway for Woocommerce."
+msgstr ""
+
+#. Author of the plugin
+#: includes/wc-gateway-idpay-init.php:116
+msgid "IDPay"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://idpay.ir"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:40
+msgid "Iranian hezar rial"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:41
+msgid "Iranian hezar toman"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:53
+msgid "IRHR"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:57
+msgid "IRHT"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:117
+#: includes/wc-gateway-idpay-init.php:201
+msgid "Redirects customers to IDPay to process their payments."
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:185
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:192
+msgid "Title"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:194
+msgid "This gateway title will be shown when a customer is going to to checkout."
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:195
+msgid "IDPay payment gateway"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:198
+msgid "Description"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:200
+msgid "This gateway description will be shown when a customer is going to to checkout."
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:204
+msgid "Webservice Configuration"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:209
+msgid "API Key"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:211
+msgid "You can create an API Key by going to https://idpay.ir/dashboard/web-services"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:215
+msgid "Sandbox"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:216
+msgid "Enable sandbox mode"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:217
+msgid "If you check this option, the gateway works in test (sandbox) mode."
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:222
+msgid "Payment message configuration"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:224
+msgid "Configure the messages which are displayed when a customer is brought back to the site from the gateway."
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:227
+msgid "Success message"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:229
+msgid "Enter the message you want to display to the customer after a successful payment. You can also choose these placeholders {track_id}, {order_id} for showing the order id and the tracking id respectively."
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:230
+msgid "Your payment has been successfully completed. Track id: {track_id}"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:233
+msgid "Failure message"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:235
+msgid "Enter the message you want to display to the customer after a failure occurred in a payment. You can also choose these placeholders {track_id}, {order_id} for showing the order id and the tracking id respectively."
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:236
+msgid "Your payment has failed. Please try again or contact the site administrator in case of a problem."
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:283
+msgid "Oder number #"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:287
+msgid "Selected currency is not supported"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:329
+msgid "An error occurred while creating the transaction."
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:331
+#: includes/wc-gateway-idpay-init.php:464
+msgid "error status: %s"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:335
+#: includes/wc-gateway-idpay-init.php:468
+msgid "error code: %s"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:337
+#: includes/wc-gateway-idpay-init.php:470
+msgid "error message: %s"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:353
+msgid "transaction id: %s"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:462
+msgid "An error occurred while verifying the transaction."
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:494
+msgid "Transaction payment status: %s"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:496
+msgid "IDPay tracking id: %s"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:498
+msgid "Payer card number: %s"
+msgstr ""
+
+
+#: includes/wc-gateway-idpay-init.php:498
+msgid "Payer hashed card number: %s"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:516
+msgid "Error in transaction status or inconsistency with payment gateway information"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:548
+msgid "There is no order number referenced."
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:550
+msgid "Please try again or contact the site administrator in case of a problem."
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:550
+msgid "Order status"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:550
+msgid "Choose order status"
+msgstr ""
+
+#: includes/wc-gateway-idpay-init.php:550
+msgid "You can choose order status after payment"
+msgstr ""
